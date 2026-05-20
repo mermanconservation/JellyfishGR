@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jellyfish Greece</string>
+    <string name="nav_species">Field Guide</string>
+    <string name="nav_outbreak">Outbreak</string>
+    <string name="search_hint">Search species…</string>
+    <string name="back">Back</string>
+    <string name="danger_harmless">Harmless</string>
+    <string name="danger_mild">Mild sting</string>
+    <string name="danger_strong">Strong sting</string>
+    <string name="biology">Biology</string>
+    <string name="first_aid">First Aid</string>
+    <string name="view_inat">View on iNaturalist</string>
+    <string name="report_sighting">Report a Sighting</string>
+    <string name="alien_species">Alien Species</string>
+    <string name="not_true_jellyfish">Not a true jellyfish</string>
+    <string name="outbreak_title">Outbreak Monitoring</string>
+    <string name="open_map">Open Bloom Map</string>
+    <string name="open_browser">Open in Browser</string>
+    <string name="source_credit">Source: BiodiversityGR · CC BY-NC 3.0 GR</string>
+</resources>

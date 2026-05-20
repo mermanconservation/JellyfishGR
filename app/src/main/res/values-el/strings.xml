@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Μέδουσες Ελλάδας</string>
+    <string name="nav_species">Οδηγός Πεδίου</string>
+    <string name="nav_outbreak">Εξάρσεις</string>
+    <string name="search_hint">Αναζήτηση είδους…</string>
+    <string name="back">Πίσω</string>
+    <string name="danger_harmless">Ακίνδυνη</string>
+    <string name="danger_mild">Ήπιο τσίμπημα</string>
+    <string name="danger_strong">Ισχυρό τσίμπημα</string>
+    <string name="biology">Βιολογία</string>
+    <string name="first_aid">Πρώτες Βοήθειες</string>
+    <string name="view_inat">Παρατηρήσεις στο iNaturalist</string>
+    <string name="report_sighting">Καταχωρίστε Παρατήρηση</string>
+    <string name="alien_species">Ξενικό Είδος</string>
+    <string name="not_true_jellyfish">Δεν είναι αληθινή μέδουσα</string>
+    <string name="outbreak_title">Παρακολούθηση Εξάρσεων</string>
+    <string name="open_map">Άνοιγμα Χάρτη Εξάρσεων</string>
+    <string name="open_browser">Άνοιγμα στο Browser</string>
+    <string name="source_credit">Πηγή: BiodiversityGR · CC BY-NC 3.0 GR</string>
+</resources>
